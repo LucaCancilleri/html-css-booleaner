@@ -1,0 +1,12 @@
+.logo {
+    background-color: rgb(164, 223, 241);    
+}
+.logo img {
+    width: 140px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 7px;   
+}
+#page {
+    margin: 0% 0% 0%
+}
