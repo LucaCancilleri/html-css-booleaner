@@ -1,12 +1,39 @@
+/* body */
+#page {
+    margin: 0% 0% 0%;
+}
+/* header */
 .logo {
-    background-color: rgb(164, 223, 241);    
+    background-color: rgb(164, 223, 241);
 }
 .logo img {
     width: 140px;
     padding-top: 25px;
     padding-bottom: 25px;
-    padding-left: 7px;   
+    padding-left: 7px;
 }
-#page {
-    margin: 0% 0% 0%
+/* main */
+.article{
+    margin-left: 13px;
+    margin-right: 13px;
 }
+/* h1 */
+#title{
+    margin-bottom: 1px;
+}
+/* section */
+.details{
+    color: rgb(155, 155, 155);
+}
+.creator{
+    font-size: 15px;
+}
+/* text blue */
+#booleaner{
+    color: rgb(109, 191, 238);
+}
+/* release data */
+.date{
+    font-size: 10px;
+}
+
