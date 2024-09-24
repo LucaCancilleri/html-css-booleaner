@@ -45,3 +45,7 @@
 .yellow{
     background-color: rgb(253, 253, 19);
 }
+/* central section text */
+.central_text{
+    margin-top: 20px;
+}
