@@ -54,3 +54,27 @@
     margin-top: 30px;
     padding-left: 16px;
 }
+/* tabella prima riga */
+.firstcell{
+    background-color: rgba(109, 160, 243, 0.922);
+    color: white;
+}
+.firstcol{
+    width: 25%;
+    text-align: left;
+    text-wrap: nowrap;
+}
+.secondcol{
+    width: 25%;
+    text-align: left;
+    text-wrap: nowrap;
+}
+.thirdcol{
+    text-align: left;
+}
+.secondrow{
+    background-color: rgba(191, 207, 231, 0.671);
+}
+.fourow{
+    background-color: rgba(191, 207, 231, 0.671);
+}
