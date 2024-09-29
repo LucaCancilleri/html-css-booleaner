@@ -54,27 +54,47 @@
     margin-top: 30px;
     padding-left: 16px;
 }
+/* tabella */
+.table1{
+    padding-top: 15px;
+}
 /* tabella prima riga */
 .firstcell{
     background-color: rgba(109, 160, 243, 0.922);
     color: white;
 }
+/* tab prima colonna */
 .firstcol{
     width: 25%;
     text-align: left;
     text-wrap: nowrap;
 }
+/* tab seconda colonna */
 .secondcol{
     width: 25%;
     text-align: left;
     text-wrap: nowrap;
 }
+/* tab terza colonna */
 .thirdcol{
     text-align: left;
 }
+/* tab seconda riga */
 .secondrow{
     background-color: rgba(191, 207, 231, 0.671);
 }
+/* tab quarta riga */
 .fourow{
     background-color: rgba(191, 207, 231, 0.671);
+}
+/* footer */
+.copyright{
+    background-color: rgb(49, 49, 114);
+    padding-top: 15px;
+    margin-top: 40px;
+}
+.diritti{    
+    height: 35px;
+    color: white;
+    text-align: center;
 }
